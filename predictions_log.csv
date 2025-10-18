@@ -1,1 +1,1 @@
-pred_time_utc,coin,target_open_utc,pred_signal,pred_prob,prev_close,actual_close,correct
+timestamp,coin,signal,prob,prev_close,actual_close,correct

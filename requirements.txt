@@ -1,6 +1,5 @@
 ccxt
 pandas
-numpy
-scikit-learn
 joblib
 requests
+scikit-learn
